@@ -1,0 +1,31 @@
+h2 {
+  background-color: blanchedalmond;
+  padding: 10px;
+  border: 1px solid black;
+}
+
+.pantry {
+  width: 400px;
+}
+.freezer {
+  width: 400px;
+}
+ul {
+  background-color: darkgray;
+  width: 150px;
+  margin: 40px;
+  float: left;
+  margin-left: 1px;
+  margin-top: -5px;
+}
+img {
+  margin: -5px;
+}
+ol {
+  background-color: darkgray;
+  width: 150px;
+  margin: 40px;
+  float: left;
+  margin-left: 1px;
+  margin-top: -5px;
+}
